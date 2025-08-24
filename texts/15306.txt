@@ -1,0 +1,3 @@
+When a customer is standing in line, 
+--- RECORDSEPARATOR ---
+click                        to take their order.

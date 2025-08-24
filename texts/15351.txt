@@ -1,0 +1,3 @@
+Drag a filling onto the unrolled sushi to start adding it.
+--- RECORDSEPARATOR ---
+You'll automatically grab a handful of each item.

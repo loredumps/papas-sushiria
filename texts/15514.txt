@@ -1,0 +1,3 @@
+Click on the customer you want to lure in,
+--- RECORDSEPARATOR ---
+and you'll see a Mail icon above their portrait:

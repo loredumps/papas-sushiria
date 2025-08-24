@@ -1,0 +1,3 @@
+On certain days, or after reaching a certain rank,
+--- RECORDSEPARATOR ---
+new customers will visit the shop!

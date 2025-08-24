@@ -1,0 +1,15 @@
+Your game progress is normally saved somewhere on your computer, 
+--- RECORDSEPARATOR ---
+not on the website you're playing on.  If your saved games are missing, your 
+--- RECORDSEPARATOR ---
+web browser or other software on your computer has deleted your progress!  
+--- RECORDSEPARATOR ---
+If you saved a Backup of your progress to your hard drive, 
+--- RECORDSEPARATOR ---
+you can restart from that point by loading that Backup.  
+--- RECORDSEPARATOR ---
+Click the 
+--- RECORDSEPARATOR ---
+Load Backup
+--- RECORDSEPARATOR ---
+ button on a Save Slot to restore from a Backup.

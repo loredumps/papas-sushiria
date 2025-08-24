@@ -1,0 +1,11 @@
+Each lobby item has a number 
+--- RECORDSEPARATOR ---
+of 
+--- RECORDSEPARATOR ---
+POINTS
+--- RECORDSEPARATOR ---
+.  The higher the points, 
+--- RECORDSEPARATOR ---
+the longer customers will be 
+--- RECORDSEPARATOR ---
+happy waiting in the lobby!

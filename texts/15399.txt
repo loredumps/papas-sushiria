@@ -1,0 +1,3 @@
+Click MENU and "CUSTOMERS" to view the customer file
+--- RECORDSEPARATOR ---
+on each of your customers.

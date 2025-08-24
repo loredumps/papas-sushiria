@@ -1,0 +1,3 @@
+These special menu items are only available during its holiday
+--- RECORDSEPARATOR ---
+season, and will disappear when the holiday changes!

@@ -1,0 +1,3 @@
+Drag a ticket onto the side hook to make it larger
+--- RECORDSEPARATOR ---
+(helpful when topping an order).

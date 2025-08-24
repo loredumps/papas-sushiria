@@ -1,0 +1,13 @@
+When you've added the tea to the order,
+--- RECORDSEPARATOR ---
+drag the 
+--- RECORDSEPARATOR ---
+Order Ticket
+--- RECORDSEPARATOR ---
+ onto the 
+--- RECORDSEPARATOR ---
+Ticket Holder
+--- RECORDSEPARATOR ---
+ on the right
+--- RECORDSEPARATOR ---
+to finish the order and give it to the customer!

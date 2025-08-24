@@ -1,0 +1,5 @@
+Move your mouse over an item in your
+--- RECORDSEPARATOR ---
+lobby to see a Pop-Up with its Points,
+--- RECORDSEPARATOR ---
+Theme, and Freshness.

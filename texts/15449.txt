@@ -1,0 +1,5 @@
+When you set Today's Special, customers may order
+--- RECORDSEPARATOR ---
+the Special instead of their usual order
+--- RECORDSEPARATOR ---
+(especially if it's similar to things they like).

@@ -1,0 +1,11 @@
+Each furniture item is grouped into a 
+--- RECORDSEPARATOR ---
+THEME
+--- RECORDSEPARATOR ---
+, 
+--- RECORDSEPARATOR ---
+shown next to its name.  
+--- RECORDSEPARATOR ---
+If you have multiple items in your lobby from the same theme,
+--- RECORDSEPARATOR ---
+you'll get a better bonus than if you have mis-matched items.

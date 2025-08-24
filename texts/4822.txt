@@ -1,0 +1,7 @@
+Hacky Zak wants Mango on top of his sushi.
+--- RECORDSEPARATOR ---
+Drag a stack of Mango
+--- RECORDSEPARATOR ---
+ onto the roll to start
+--- RECORDSEPARATOR ---
+adding it. 

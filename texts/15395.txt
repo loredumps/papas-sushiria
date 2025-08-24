@@ -1,0 +1,5 @@
+As you unlock new teas, rice, papers, fillings, and toppings,
+--- RECORDSEPARATOR ---
+your customers may start adding those new items to
+--- RECORDSEPARATOR ---
+their orders!

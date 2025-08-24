@@ -1,0 +1,3 @@
+Each time your rank changes, new customers will visit the shop,
+--- RECORDSEPARATOR ---
+and/or new food items will be unlocked!

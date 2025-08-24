@@ -1,0 +1,3 @@
+As you win prizes in each Mini Game, the games will get
+--- RECORDSEPARATOR ---
+more difficult!

@@ -1,0 +1,9 @@
+You can buy multiples of any furniture item or poster
+--- RECORDSEPARATOR ---
+(but not wallpaper and flooring).
+--- RECORDSEPARATOR ---
+If you have multiples of an item, you'll get a Waiting Bonus
+--- RECORDSEPARATOR ---
+for every item, but you won't get a better Build or Cooking Bonus
+--- RECORDSEPARATOR ---
+for a topping by having more of that poster.

@@ -1,0 +1,3 @@
+When you grab a ticket, you can pull it towards the bottom
+--- RECORDSEPARATOR ---
+of the screen to zoom in, to read it better.

@@ -1,0 +1,3 @@
+Some orders will show this symbol by the rice.
+--- RECORDSEPARATOR ---
+This means they want rice on the outside of the roll.

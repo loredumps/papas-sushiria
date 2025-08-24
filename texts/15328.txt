@@ -1,0 +1,3 @@
+At the top of the ticket is a flavor for the customer's bubble tea,
+--- RECORDSEPARATOR ---
+and the type of bubbles they would like in the drink.

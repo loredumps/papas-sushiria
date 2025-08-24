@@ -1,0 +1,3 @@
+If a customer waiting too long before 
+--- RECORDSEPARATOR ---
+you take the order, you'll lose points!

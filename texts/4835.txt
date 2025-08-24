@@ -1,0 +1,5 @@
+Keep clicking to make slices.
+--- RECORDSEPARATOR ---
+After you cut the roll, the piece you made
+--- RECORDSEPARATOR ---
+will automatically move to the plate.

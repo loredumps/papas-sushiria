@@ -1,0 +1,21 @@
+package sushiria_interface_fla_fla
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="sushiria_interface_fla_fla.menuhelp_tab_bg_331")]
+   public dynamic class menuhelp_tab_bg_331 extends MovieClip
+   {
+       
+      
+      public function menuhelp_tab_bg_331()
+      {
+         super();
+         addFrameScript(0,this.frame1);
+      }
+      
+      internal function frame1() : *
+      {
+         stop();
+      }
+   }
+}

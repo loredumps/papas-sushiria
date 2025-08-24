@@ -1,0 +1,3 @@
+After the customer opens their coupon,
+--- RECORDSEPARATOR ---
+they'll be sure to visit during the next day!

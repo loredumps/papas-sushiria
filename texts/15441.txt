@@ -1,0 +1,5 @@
+Customers ordering Today's Special will just say
+--- RECORDSEPARATOR ---
+the Special's name, and you'll write the Special's name
+--- RECORDSEPARATOR ---
+on the ticket.

@@ -1,0 +1,3 @@
+Sushi fillings are shown in the circle between
+--- RECORDSEPARATOR ---
+the paper and the rice.

@@ -1,0 +1,7 @@
+Switch to the 
+--- RECORDSEPARATOR ---
+Customers
+--- RECORDSEPARATOR ---
+ page.
+--- RECORDSEPARATOR ---
+It now has a     icon.

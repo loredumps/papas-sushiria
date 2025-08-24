@@ -1,0 +1,7 @@
+Drag the knife
+--- RECORDSEPARATOR ---
+ over the roll,
+--- RECORDSEPARATOR ---
+and start making slices from one end.
+--- RECORDSEPARATOR ---
+Release the knife to make your first cut.

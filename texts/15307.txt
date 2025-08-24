@@ -1,0 +1,5 @@
+You will automatically copy the order onto an order ticket.
+--- RECORDSEPARATOR ---
+Once the order is taken, the customer will wait in the
+--- RECORDSEPARATOR ---
+"Pick Up" line in the back.

@@ -1,0 +1,3 @@
+Furniture Items can be placed in any free spot on the floor,
+--- RECORDSEPARATOR ---
+by clicking somewhere on the three grid rows.

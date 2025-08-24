@@ -1,0 +1,3 @@
+Before the start of the workday, you can change Today's Special
+--- RECORDSEPARATOR ---
+to be any of the recipes you've already earned.

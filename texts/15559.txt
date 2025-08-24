@@ -1,0 +1,3 @@
+If you add more items to your lobby, or change the items
+--- RECORDSEPARATOR ---
+you're using, your lobby's overall Freshness will change as well.

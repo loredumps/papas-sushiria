@@ -1,0 +1,5 @@
+The dining room is now open,
+--- RECORDSEPARATOR ---
+and you'll need to hire
+--- RECORDSEPARATOR ---
+a server to help take orders!

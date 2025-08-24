@@ -1,0 +1,5 @@
+You can view a ticket of the customer's 
+--- RECORDSEPARATOR ---
+(current) favorite order on this screen, as well as their
+--- RECORDSEPARATOR ---
+favorite holiday and other information.

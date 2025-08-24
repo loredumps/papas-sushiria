@@ -1,0 +1,3 @@
+Any toppings you previously unlocked for each holiday
+--- RECORDSEPARATOR ---
+will reappear when you reach that holiday again.

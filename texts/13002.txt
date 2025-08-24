@@ -1,0 +1,9 @@
+Points are usually colored 
+--- RECORDSEPARATOR ---
+Purple,
+--- RECORDSEPARATOR ---
+but holiday-boosted points are colored
+--- RECORDSEPARATOR ---
+GREEN
+--- RECORDSEPARATOR ---
+ in your Inventory.

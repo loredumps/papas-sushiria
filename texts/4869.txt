@@ -1,0 +1,3 @@
+Furniture items can be placed on
+--- RECORDSEPARATOR ---
+the grid areas on the floor.

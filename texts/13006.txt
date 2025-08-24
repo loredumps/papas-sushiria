@@ -1,0 +1,11 @@
+Changing these won't affect 
+--- RECORDSEPARATOR ---
+your 
+--- RECORDSEPARATOR ---
+Points
+--- RECORDSEPARATOR ---
+ or 
+--- RECORDSEPARATOR ---
+Freshness
+--- RECORDSEPARATOR ---
+ though.

@@ -1,0 +1,7 @@
+This symbol means they want
+--- RECORDSEPARATOR ---
+rice on the outside
+--- RECORDSEPARATOR ---
+ of the roll.
+--- RECORDSEPARATOR ---
+Click the FLIP button to flip it!

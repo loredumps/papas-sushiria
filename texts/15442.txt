@@ -1,0 +1,3 @@
+Click the                     button on the Today's Special
+--- RECORDSEPARATOR ---
+panel to open your Cookbook and select a new Special.

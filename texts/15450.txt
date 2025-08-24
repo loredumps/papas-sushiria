@@ -1,0 +1,7 @@
+Each Special has a certain Bonus you can earn by serving it.
+--- RECORDSEPARATOR ---
+Some Specials will reward you with extra points or tips,
+--- RECORDSEPARATOR ---
+and others will reward you with more Mini-Game Tickets
+--- RECORDSEPARATOR ---
+or extra Customer Stars.

@@ -1,0 +1,7 @@
+This order needs Salmon inside.
+--- RECORDSEPARATOR ---
+Drag a stack of Salmon
+--- RECORDSEPARATOR ---
+ to the edge
+--- RECORDSEPARATOR ---
+of the sushi to start adding it.

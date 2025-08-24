@@ -1,0 +1,3 @@
+Other customers will walk on foot, but only if they've 
+--- RECORDSEPARATOR ---
+earned a Bronze Customer Award (or Silver or Gold).

@@ -1,0 +1,9 @@
+This order needs 
+--- RECORDSEPARATOR ---
+White Rice
+--- RECORDSEPARATOR ---
+.
+--- RECORDSEPARATOR ---
+Drag the White Rice bin 
+--- RECORDSEPARATOR ---
+onto a rice cooker.

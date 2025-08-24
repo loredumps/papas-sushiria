@@ -1,0 +1,7 @@
+If the customer is eating in the Dining Room, have your Server
+--- RECORDSEPARATOR ---
+wear clothing to match the holiday for extra tips.
+--- RECORDSEPARATOR ---
+For all other customers in the lobby, have your main Chef wear
+--- RECORDSEPARATOR ---
+clothing that matches the holiday to earn extra tips.

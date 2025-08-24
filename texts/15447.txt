@@ -1,0 +1,5 @@
+After you buy the "Special Sign", you can decide 
+--- RECORDSEPARATOR ---
+whether or not to show the sign outside before each day.
+--- RECORDSEPARATOR ---
+Click                    and toggle this setting before the day starts.

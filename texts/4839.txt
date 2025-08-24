@@ -1,0 +1,5 @@
+Click the Strawberry Tea
+--- RECORDSEPARATOR ---
+ button
+--- RECORDSEPARATOR ---
+to choose the tea.

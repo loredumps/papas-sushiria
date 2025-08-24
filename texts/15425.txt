@@ -1,0 +1,3 @@
+When a customer in the Dining Room places an order,
+--- RECORDSEPARATOR ---
+your Server will show up in the lobby to tell you the order.

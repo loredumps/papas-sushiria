@@ -1,0 +1,17 @@
+abcdefghijklmn
+--- RECORDSEPARATOR ---
+opqrstuvwxyz
+--- RECORDSEPARATOR ---
+ABCDEFGHIJKL
+--- RECORDSEPARATOR ---
+MNOPQRSTUVW
+--- RECORDSEPARATOR ---
+XYZ12345  
+--- RECORDSEPARATOR ---
+67890-
+--- RECORDSEPARATOR ---
+=!@#$%^&*()_+
+--- RECORDSEPARATOR ---
+[]{}\|;:'",<.>/?`
+--- RECORDSEPARATOR ---
+~

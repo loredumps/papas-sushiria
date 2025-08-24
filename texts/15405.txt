@@ -1,0 +1,3 @@
+Each day of the week, a different "Closer" customer will arrive
+--- RECORDSEPARATOR ---
+at the end of the day!

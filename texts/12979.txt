@@ -1,0 +1,9 @@
+Each lobby item also has 
+--- RECORDSEPARATOR ---
+Freshness
+--- RECORDSEPARATOR ---
+,
+--- RECORDSEPARATOR ---
+shown as a meter in your 
+--- RECORDSEPARATOR ---
+inventory and pop-ups.

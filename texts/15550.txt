@@ -1,0 +1,5 @@
+Each lobby item is part of a 
+--- RECORDSEPARATOR ---
+THEME
+--- RECORDSEPARATOR ---
+, shown in the corner.

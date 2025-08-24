@@ -1,0 +1,5 @@
+When you're adding a handful of toppings or
+--- RECORDSEPARATOR ---
+fillings, they'll change color if they're overlapping
+--- RECORDSEPARATOR ---
+on the roll.  Try to space them out!

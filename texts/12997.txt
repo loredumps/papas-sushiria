@@ -1,0 +1,5 @@
+Items that give you a Cooking Bonus or 
+--- RECORDSEPARATOR ---
+Build Bonus for a food ingredient
+--- RECORDSEPARATOR ---
+will also increase your Waiting Score!

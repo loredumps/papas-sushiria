@@ -1,0 +1,3 @@
+Each customer in the Customer File also has three specific 
+--- RECORDSEPARATOR ---
+Stickers shown on their page.

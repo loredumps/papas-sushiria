@@ -1,0 +1,3 @@
+After selecting an item, click on the "Put Away" tray
+--- RECORDSEPARATOR ---
+in the order window to remove it from the lobby.

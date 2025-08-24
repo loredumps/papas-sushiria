@@ -1,0 +1,5 @@
+This sushi will be wrapped in 
+--- RECORDSEPARATOR ---
+Nori
+--- RECORDSEPARATOR ---
+.

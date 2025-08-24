@@ -1,0 +1,7 @@
+Each furniture item also has a number of maximum 
+--- RECORDSEPARATOR ---
+POINTS.
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+The more Points an item has, the better Waiting Bonus you'll get!

@@ -1,0 +1,11 @@
+If you saved a backup before, you can load it on this save slot 
+--- RECORDSEPARATOR ---
+to continue from that point!  
+--- RECORDSEPARATOR ---
+Click the 
+--- RECORDSEPARATOR ---
+Load...
+--- RECORDSEPARATOR ---
+ button below, and find the backup file that
+--- RECORDSEPARATOR ---
+you saved on your computer.

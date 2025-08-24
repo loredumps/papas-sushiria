@@ -1,0 +1,3 @@
+If you're playing as a Custom Worker, you can also click on
+--- RECORDSEPARATOR ---
+your worker's name to change it.

@@ -1,0 +1,5 @@
+Some customers have their own favorite holiday,
+--- RECORDSEPARATOR ---
+and will change their usual orders during that month
+--- RECORDSEPARATOR ---
+to have more holiday-themed items!

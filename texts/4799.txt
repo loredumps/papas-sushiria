@@ -1,0 +1,3 @@
+Watch the cook meter until it reaches 
+--- RECORDSEPARATOR ---
+the halfway point in the middle.

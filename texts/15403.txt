@@ -1,0 +1,7 @@
+Each customer's page also shows a set of three Stickers.
+--- RECORDSEPARATOR ---
+If you earn all of these Stickers, you can unlock a special
+--- RECORDSEPARATOR ---
+alternate outfit for that customer!
+--- RECORDSEPARATOR ---
+(See the "Stickers" help section for more information)

@@ -1,0 +1,3 @@
+Choose the flavor of tea that the customer ordered,
+--- RECORDSEPARATOR ---
+then press the Pour Button again when the meter is centered.

@@ -1,0 +1,3 @@
+Be careful!  
+--- RECORDSEPARATOR ---
+If you do an awful job, the Star Meter will drop to zero!

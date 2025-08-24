@@ -1,0 +1,3 @@
+When you finish an order, the customer will look at
+--- RECORDSEPARATOR ---
+their meal and decide if you did a good job.

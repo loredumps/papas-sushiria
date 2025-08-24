@@ -1,0 +1,7 @@
+Make sure you DO NOT DELETE COOKIES, and make sure
+--- RECORDSEPARATOR ---
+NONE OF YOUR BROWSERS are set to delete cookies
+--- RECORDSEPARATOR ---
+automatically when they close. 
+--- RECORDSEPARATOR ---
+This will delete your game data in most browsers!

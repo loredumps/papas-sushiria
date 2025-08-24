@@ -1,0 +1,3 @@
+When you move your mouse over any furniture item or poster, 
+--- RECORDSEPARATOR ---
+you'll see a pop-up showing more information about it.

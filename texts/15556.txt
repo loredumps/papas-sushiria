@@ -1,0 +1,11 @@
+Each lobby item also has 
+--- RECORDSEPARATOR ---
+FRESHNESS
+--- RECORDSEPARATOR ---
+, shown as a meter
+--- RECORDSEPARATOR ---
+in your inventory and pop-ups.
+--- RECORDSEPARATOR ---
+You can also see the overall Lobby Freshness at the bottom
+--- RECORDSEPARATOR ---
+of the Decorate screen.

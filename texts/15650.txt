@@ -1,0 +1,5 @@
+Your backup is restored!  
+--- RECORDSEPARATOR ---
+You can start playing again from
+--- RECORDSEPARATOR ---
+the point where you made a backup!

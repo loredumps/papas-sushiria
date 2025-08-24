@@ -1,0 +1,3 @@
+If you only have ONE or TWO items of a theme, you'll lose
+--- RECORDSEPARATOR ---
+some points.

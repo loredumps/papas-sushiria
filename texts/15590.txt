@@ -1,0 +1,7 @@
+Stickers where you have to complete a task
+--- RECORDSEPARATOR ---
+are marked with a     icon.
+--- RECORDSEPARATOR ---
+Look for these to know there's a task available to do!
+--- RECORDSEPARATOR ---
+If you sort stickers by "NEED", these will appear on top.

@@ -1,0 +1,5 @@
+Drag shakers and sauce bottles above the sushi roll,
+--- RECORDSEPARATOR ---
+and release to start pouring that item onto the top of the sushi.
+--- RECORDSEPARATOR ---
+It will automatically keep pouring until you run out.

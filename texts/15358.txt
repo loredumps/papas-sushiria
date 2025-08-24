@@ -1,0 +1,5 @@
+Try to space the fillings evenly from front to back.
+--- RECORDSEPARATOR ---
+You should have just enough pieces in your handful
+--- RECORDSEPARATOR ---
+to reach from the front to the back of the roll.

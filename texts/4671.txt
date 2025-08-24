@@ -1,0 +1,5 @@
+Your backup is saved!  
+--- RECORDSEPARATOR ---
+You can use this backup to start 
+--- RECORDSEPARATOR ---
+your game again from this point.

@@ -1,0 +1,5 @@
+Keep cilcking on the sushi roll to slice it.
+--- RECORDSEPARATOR ---
+Each slice will automatically move to the serving plate.
+--- RECORDSEPARATOR ---
+You can see how many cuts are remaining on your knife blade.

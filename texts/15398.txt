@@ -1,0 +1,5 @@
+The customer file has a portrait for each customer you
+--- RECORDSEPARATOR ---
+have earned.  Click on each portrait to learn more about
+--- RECORDSEPARATOR ---
+each customer!

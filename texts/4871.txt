@@ -1,0 +1,5 @@
+You can drag tickets to the 
+--- RECORDSEPARATOR ---
+Ticket Line or the Ticket Hook 
+--- RECORDSEPARATOR ---
+to organize or read them easier.

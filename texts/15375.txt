@@ -1,0 +1,3 @@
+If you didn't press the Pour Button when the
+--- RECORDSEPARATOR ---
+meter was centered, you'll lose points!

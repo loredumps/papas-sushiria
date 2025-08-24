@@ -1,0 +1,3 @@
+Each time you do a good (or great) job on an order for
+--- RECORDSEPARATOR ---
+a customer, that customers gets one star on their Star Meter.

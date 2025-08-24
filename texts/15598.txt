@@ -1,0 +1,3 @@
+After you start a game, your progress is automatically saved
+--- RECORDSEPARATOR ---
+after each day, and after you buy items from the Shop!

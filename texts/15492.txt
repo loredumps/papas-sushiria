@@ -1,0 +1,11 @@
+Each item will improve your various station scores in some way:
+--- RECORDSEPARATOR ---
+ALL items (including posters, wallpaper, and flooring) will now
+--- RECORDSEPARATOR ---
+give you a bonus on your Waiting Score, so customers will be
+--- RECORDSEPARATOR ---
+happy to wait longer.
+--- RECORDSEPARATOR ---
+Some items will also give you Build or Cooking bonuses
+--- RECORDSEPARATOR ---
+with certain ingredients.

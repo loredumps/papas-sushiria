@@ -1,0 +1,13 @@
+You can save a backup of your progress to your computer, 
+--- RECORDSEPARATOR ---
+which you can use if your saved game gets erased.  
+--- RECORDSEPARATOR ---
+It will only save your progress up to this point.  
+--- RECORDSEPARATOR ---
+Click the 
+--- RECORDSEPARATOR ---
+Save...
+--- RECORDSEPARATOR ---
+ button below, and choose a place on your 
+--- RECORDSEPARATOR ---
+computer to save your backup.

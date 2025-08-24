@@ -1,0 +1,3 @@
+If you take something out of your lobby for a day,
+--- RECORDSEPARATOR ---
+its Freshness will raise again.

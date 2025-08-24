@@ -1,0 +1,9 @@
+Your game progress is normally saved somewhere on your computer, 
+--- RECORDSEPARATOR ---
+not on the website you're playing on.  If your saved games are missing, your 
+--- RECORDSEPARATOR ---
+web browser or other software on your computer has deleted your progress!  
+--- RECORDSEPARATOR ---
+Be careful that you don't delete your cookies, and make sure that NONE
+--- RECORDSEPARATOR ---
+of your browsers delete cookies automatically when closing!

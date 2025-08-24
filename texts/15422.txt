@@ -1,0 +1,3 @@
+Once a customer has earned awards, they'll also tip more
+--- RECORDSEPARATOR ---
+from now on, and place orders faster!

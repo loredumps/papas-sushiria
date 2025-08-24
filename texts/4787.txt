@@ -1,0 +1,5 @@
+You'll copy down each
+--- RECORDSEPARATOR ---
+customer's order onto
+--- RECORDSEPARATOR ---
+an order ticket.
